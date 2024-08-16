@@ -35,6 +35,7 @@ StaticRest/
 └── README.md  # Документация проекта
 └── server.js  # Сервер
 
+
 ## Установка 
 Убедитесь, что у вас установлены Node.js и npm (Node Package Manager). Затем выполните:
 
