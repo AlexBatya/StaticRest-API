@@ -79,9 +79,9 @@ npm start
 ```
 Эти параметры можно изменять в зависимости от того, как вы настроите передачу данных в программе "Статика 3". Вы можете изменить login, password, token и PORT в соответствии с вашими требованиями.
 
-<img src = "./img/sin.png"/>
-<img src = "./img/integration.png"/>
-<img src = "settings.png"/>
+<img src = "./img/sin.jpg"/>
+<img src = "./img/integration.jpg"/>
+<img src = "settings.jpg"/>
 
 ## Взаимодействие с API
 
