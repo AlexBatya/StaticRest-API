@@ -4,8 +4,8 @@ StaticRest API — это серверное приложение, разраб�
 
 ## Ссылки на документацию:
 
-1. <a target="_ blank href = "https://wiki.tenso-m.ru/lib/exe/fetch.php?media=start:statics3:статика_3_-_описание_api.pdf">Описание API</a>
-2. <a target="_ blank href = "https://wiki.tenso-m.ru/doku.php?id=start:программное_обеспечение:статика_3:rest_api">REST-API</a>
+1. <a href = "https://wiki.tenso-m.ru/lib/exe/fetch.php?media=start:statics3:статика_3_-_описание_api.pdf">Описание API</a>
+2. <a href = "https://wiki.tenso-m.ru/doku.php?id=start:программное_обеспечение:статика_3:rest_api">REST-API</a>
 
 ## Навигация
 - [Возможности](#возможности)
