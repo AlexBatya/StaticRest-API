@@ -1,0 +1,8 @@
+{
+	"server": {
+		"login": "test",
+		"password": "12345",
+		"token": "52390723r5tgn89ng92",
+		"PORT": 3500 
+	}
+}
