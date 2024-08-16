@@ -55,7 +55,7 @@ StaticRest/
 npm install
 ```
 
-## Компиляция TypeScript
+### Компиляция TypeScript
 
 Если вы хотите отдельно скомпилировать TypeScript код в JavaScript:
 
@@ -65,7 +65,7 @@ npm run build
 
 ```
 
-## Запуск и компляция TypeScript
+### Запуск и компляция TypeScript
 
 Запустите сервер:
 
@@ -75,7 +75,7 @@ npm start
 
 ```
 
-## Конфигурация 
+### Конфигурация 
 
 Файл src/config/localhost.json содержит параметры конфигурации сервера:
 
